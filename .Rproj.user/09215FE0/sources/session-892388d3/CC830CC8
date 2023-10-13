@@ -1,0 +1,26 @@
+{
+    "id": "CC830CC8",
+    "path": "~/Projects/R Packages/mvolaviz/R/functions.R",
+    "project_path": "R/functions.R",
+    "type": "r_source",
+    "hash": "1782359001",
+    "contents": "",
+    "dirty": false,
+    "created": 1696420428388.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "82,23",
+        "scrollLine": "0"
+    },
+    "folds": "0|28|22|0|\n25|29|29|0|\n32|24|35|0|\n38|32|46|0|\n48|57|80|0|\n82|42|90|0|\n92|29|97|0|\n99|63|112|0|\n141|41|157|0|\n160|41|175|0|\n178|53|193|0|\n216|1|221|0|\n240|58|263|0|\n266|43|281|0|\n283|41|298|0|\n301|76|315|0|\n317|27|323|0|\n326|34|329|0|\n332|44|344|0|\n347|36|362|0|\n364|84|382|0|\n383|84|401|0|\n403|77|421|0|\n423|57|428|0|\n430|31|447|0|\n",
+    "lastKnownWriteTime": 1696420521,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1697176173865,
+    "read_only": false,
+    "read_only_alternatives": []
+}
